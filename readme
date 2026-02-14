@@ -1,0 +1,16 @@
+# PoC — Coin du Feu (Souveraineté en Action) — La KLE
+
+Preuve de concept : page de restitution et note de recherche-action issue de la causerie "Coin du Feu" (13/02/2026).
+
+## Contenu
+- `index.html` : page de démonstration publique (restauration synthétique, actions, analyse RA).
+- `images/` : visuels (logo KLE + affiche Coin du Feu).
+- `knowledge/sources/` : documents sources (.md) — restitution, contrat blanc, note RA.
+
+## Usage
+- Ce site est un PoC destiné à présenter le format "causerie + RA" aux acteurs publics, partenaires et collectifs.
+- Pour déployer rapidement : utiliser Netlify (drag & drop) ou GitHub Pages (Settings → Pages → main / root).
+
+## Crédits & contact
+- Projet : La KLE — Kalos · Logos · Ethos  
+- Contact : kalos.design.jardinage@gmail.com
