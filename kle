@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Proof of Concept — Coin du Feu | Souveraineté en Action (La KLE)</title>
+  <style>
+    body{font-family: Inter, Arial, Helvetica, sans-serif; margin:0; color:#222;background:#fff8f2}
+    .header{display:flex;align-items:center;justify-content:space-between;padding:28px 40px;background:linear-gradient(90deg,#fffaf0,#fff3e6);border-bottom:1px solid #f0e0d0}
+    .brand{display:flex;align-items:center;gap:18px}
+    .brand img{height:140px}
+    .poster img{height:220px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.12)}
+    .container{max-width:980px;margin:28px auto;padding:0 20px}
+    h1{color:#b85b1b;margin:8px 0}
+    .lede{font-size:1.05rem;color:#333;margin-bottom:18px}
+    section{background:#fff;padding:18px 22px;border-radius:10px;margin-bottom:16px;box-shadow:0 6px 18px rgba(0,0,0,0.04)}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+    ul{margin:8px 0 0 20px}
+    .pill{display:inline-block;background:#ffe9d6;color:#b85b1b;padding:6px 10px;border-radius:999px;margin-right:8px;font-weight:600}
+    .actions li{margin:8px 0}
+    footer{text-align:center;color:#666;font-size:0.9rem;padding:22px}
+    .quote{font-style:italic;color:#444;background:#fff7ee;padding:12px;border-left:4px solid #f1c28a;border-radius:6px}
+    @media(max-width:800px){.grid{grid-template-columns:1fr}.poster img{height:180px}.brand img{height:100px}}
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="brand">
+      <img src="images/file_30---495cb776-4861-454d-b930-2012a7da5c13.jpg" alt="KLE logo">
+      <div>
+        <h1>Souveraineté en Action — Coin du Feu</h1>
+        <div class="lede">Preuve de concept — Restitution & recherche‑action. Séance Libre Parole — 13 février 2026</div>
+      </div>
+    </div>
+    <div class="poster">
+      <img src="images/file_31---e8e43f6b-21e4-40df-99fe-c373f2dc5cba.jpg" alt="Affiche Coin du Feu">
+    </div>
+  </div>
+
+  <div class="container">
+
+    <section>
+      <strong class="pill">TL;DR</strong>
+      <p>"Coin du Feu" est une causerie citoyenne organisée dans la Ruche 00, tenue le 13/02/2026. Cette page présente une synthèse opérationnelle de la séance, une analyse de recherche‑action (co‑intelligence structurée) et des propositions d’actions concrètes pour transformer la parole collective en dispositifs opérants via La KLE et Nexus.</p>
+    </section>
+
+    <section class="grid">
+      <div>
+        <h2>Contexte</h2>
+        <p>Initiative : <strong>Souveraineté en Action (SA)</strong>, dispositif d’éducation populaire et de recherche‑action porté par La KLE. Objectif : produire compréhension collective, outils transmissibles et capacités d’action.</p>
+
+        <h3>4 axes structurants (issus de la séance)</h3>
+        <ul>
+          <li><strong>Représentation politique</strong> : pistes de formes alternatives de représentativité (conseils municipaux universels, vote alvéolaire).</li>
